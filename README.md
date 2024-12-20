@@ -34,7 +34,7 @@ This repository contains a **Power BI** project that visualizes and analyzes sal
 
 ## Screenshots
 
-![Dashboard Screenshot]"C:\Users\P Rahul\OneDrive\Pictures\Screenshots 1\DashBoard Image.png.png"
+![Dashboard Screenshot]"C:\Users\P Rahul\OneDrive\Pictures\Screenshots 1\DashBoard Image.png"
 
 ## How to Use the Dashboard
 
