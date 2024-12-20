@@ -40,7 +40,7 @@ This repository contains a **Power BI** project that visualizes and analyzes sal
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Global-Superstore-Sales-Dashboard-PowerBI.git
+   git clone https://github.com/PillellaRahul/Global-Superstore-Sales-Dashboard-PowerBI.git
    ```
 2. **Open the Power BI File**:
    Open the `.pbix` file in Power BI Desktop.
